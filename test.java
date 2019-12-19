@@ -1,5 +1,5 @@
-packageTP2;
-importjava.util.Scanner;
+package TP2;
+import java.util.Scanner;
 classe test{
   public static void main(String[] args){
     int nbre= -1;
