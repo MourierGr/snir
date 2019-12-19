@@ -1,0 +1,1 @@
+packageTP2;importjava.util.Scanner;classex5{publicstaticvoidmain(String[] args){intnbre= -1;intres;inti;Scanner scan= newScanner(System.in);System.out.println("Entrer le chiffre à multiplier:");nbre=scan.nextInt();for(i=1; i<11; i++){res= i*nbre;System.out.print(i);System.out.print("x"+ nbre+ "=");System.out.println(res);}scan.close();}}
